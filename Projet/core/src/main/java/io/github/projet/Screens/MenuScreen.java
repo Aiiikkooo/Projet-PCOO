@@ -29,7 +29,7 @@ public class MenuScreen implements Screen {
         game.batch.begin();
         game.batch.draw(fond,0f,0f);
         game.font.draw(game.batch, "Welcome to Void Assault!\n   Press ENTER to start", 545, 350);
-        game.font.draw(game.batch, "You can PAUSE with SPACE", 530, 315);
+        game.font.draw(game.batch, "           Shoot with TAB\nYou can PAUSE with SPACE", 530, 315);
         game.batch.end();
 
         if (Gdx.input.isKeyJustPressed(com.badlogic.gdx.Input.Keys.ENTER)) {
