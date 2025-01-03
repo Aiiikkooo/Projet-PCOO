@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="1" height="1" tilewidth="1273" tileheight="733" infinite="0" nextlayerid="7" nextobjectid="8">
+ <objectgroup id="5" name="Bord_droite">
+  <object id="6" x="1272" y="0" width="1" height="733"/>
+ </objectgroup>
+ <objectgroup id="6" name="Bord_gauche">
+  <object id="7" x="0" y="0" width="1" height="733"/>
+ </objectgroup>
+</map>
